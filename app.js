@@ -23,4 +23,3 @@ app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
 
-day three of trying to just commit the way i can 
